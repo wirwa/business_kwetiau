@@ -1,0 +1,78 @@
+/* fonts goolgle.com */
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Black+Han+Sans&family=Bree+Serif&family=Coiny&family=Concert+One&family=Courgette&family=Dancing+Script&family=Devonshire&family=Great+Vibes&family=Lilita+One&family=Nunito&family=Oswald&family=Patua+One&family=Poppins:wght@300&family=Roboto+Slab&family=Viga&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Archivo+Black&family=Black+Han+Sans&family=Black+Ops+One&family=Bree+Serif&family=Coiny&family=Concert+One&family=Courgette&family=Creepster&family=Dancing+Script&family=Devonshire&family=Great+Vibes&family=Lilita+One&family=Marhey:wght@300&family=Montserrat:wght@300;400;500;600;700;800;900&family=Nunito&family=Oswald&family=Patua+One&family=Poppins:wght@300&family=Roboto+Slab&family=Rubik+Dirt&family=Rubik+Marker+Hatch&family=Viga&display=swap');
+/* styling start */
+:root {
+  --bs-blue: #0d6efd;
+  --bs-indigo: #6610f2;
+  --bs-purple: #6f42c1;
+  --bs-pink: #d63384;
+  --bs-red: #dc3545;
+  --bs-orange: #fd7e14;
+  --bs-yellow: #ffc107;
+  --bs-green: #198754;
+  --bs-teal: #20c997;
+  --bs-cyan: #0dcaf0;
+  --bs-white: #fff;
+  --bs-gray: #6c757d;
+  --bs-gray-dark: #343a40;
+  --bs-primary: #0d6efd;
+  --bs-secondary: #6c757d;
+  --bs-success: #198754;
+  --bs-info: #0dcaf0;
+  --bs-warning: #ffc107;
+  --bs-danger: #dc3545;
+  --bs-light: #f8f9fa;
+  --bs-dark: #212529;
+  --bs-colorA: #e1c4be;
+  --bs-colorB: ##b79891;
+}
+.jumbotron {
+  background: linear-gradient(to right, #e1c4be, #b79891);
+  padding-top: 7rem;
+}
+.content {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+  border: 3px solid rgba(255, 255, 255, 0.6);
+}
+h3 {
+  font-family: 'Coiny', cursive;
+}
+.navbar-brand {
+  font-family: 'Patua One', cursive;
+}
+.nav-link {
+  font-family: 'Nunito';
+}
+p {
+  font-family: sans-serif;
+}
+
+.tumpul {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+input.form-control {
+  border-radius: 25px;
+  -webkit-border-radius: 25px;
+  -moz-border-radius: 25px;
+  -ms-border-radius: 25px;
+  -o-border-radius: 25px;
+}
+.bg-ColorB {
+  background: #b79891;
+  color: #f8f9fa;
+  font-family: monospace;
+}
+.bg-ColorB:focus {
+  background: #b79891;
+  color: #f8f9fa;
+  font-family: monospace;
+}
